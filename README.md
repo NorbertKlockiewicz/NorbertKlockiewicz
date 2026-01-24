@@ -1,6 +1,6 @@
 ### Hey, I'm Norbert 👋
 
-Mobile ML Engineer at [Software Mansion](https://swmansion.com), specializing in on-device AI inference.
+Mobile ML Engineer at [Software Mansion](https://swmansion.com), specializing in on-device AI.
 
 **What I'm building:**
 - [react-native-executorch](https://github.com/software-mansion/react-native-executorch) - Run ML models locally on iOS & Android (1000+ ⭐)
