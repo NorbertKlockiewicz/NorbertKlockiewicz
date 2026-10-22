@@ -6,14 +6,16 @@ inference usable from React Native.
 
 ### Projects
 
-* [react-native-executorch](https://github.com/software-mansion/react-native-executorch) (1.5k+ ⭐) 
-  Run ML models locally on iOS and Android. Built it from the early stages, now
-  focused on the developer-facing side of it.
-* [Private Mind](https://github.com/software-mansion-labs/private-mind) 
+* [react-native-executorch](https://github.com/software-mansion/react-native-executorch) (1.7k+ ⭐) 
+  Run ML models locally on iOS and Android. Core maintainer since the early
+  stages, working on the core: getting models to export to ExecuTorch and run
+  efficiently on phones.
+* [Private Mind](https://github.com/software-mansion-labs/private-mind) (400 ⭐, 5K+ downloads on Google Play) 
   Fully on-device AI assistant, iOS and Android. No cloud, no data leaving the phone.
 
 ### Talks
 
+* ReactCon Berlin 2026. From Weights to useModel(): Teaching Agents to Do the Hard Part
 * GenAI Kraków #29. Keeping PII out of external LLMs
 * App.js Conf 2026. [Challenges in building React Native applications with on-device AI](https://youtu.be/uk-wnB67Bvo?si=Xg-CfHfnfeUzOZUz)
 
